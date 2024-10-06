@@ -42,11 +42,11 @@ ___
 <div id="stat" align="center">
  
 ![snake gif](https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatchedDeveloper&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatchedDeveloper&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatchedDeveloper&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatchedDeveloper&theme=github_dark"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatchedDeveloper&theme=github_dark&utcOffset=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3x6dll9ff&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3x6dll9ff&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3x6dll9ff&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3x6dll9ff&theme=github_dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3x6dll9ff&theme=github_dark&utcOffset=8"/>
 
 </div>
 
