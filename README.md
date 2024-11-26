@@ -18,7 +18,7 @@
 
 ___
 
-- 💻 **IOS Developer 2 y.e**
+- 💻 **Dev 3 y.e**
 - 🔒 **I stand for secure software**
 - 📈 **It is really important for me to benefit businesses and users of IT products.**
 - **:octocat: Studying the blockchain developmen**
