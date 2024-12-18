@@ -21,7 +21,7 @@ ___
 - 💻 **Dev 3 y.e**
 - 🔒 **I stand for secure software**
 - 📈 **It is really important for me to benefit businesses and users of IT products.**
-- **:octocat: Studying the blockchain developmen**
+- **:octocat: Studying the blockchain development**
 ___
 
 :briefcase: ***Skills***
