@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm 3x6dll9ff  :octocat:   </h1>
 <div id="socials" align="center">
 
-<a href="https://www.linkedin.com/in/patcheddev/">
+<a href="https://www.linkedin.com/in/3x6dll9ff/">
  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
 </a>
-<a href="https://t.me/patcheddev">
+<a href="https://t.me/threex6dll9ff"> 
  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 </a>
 <a href="https://discord.com/users/429231370120855552">
