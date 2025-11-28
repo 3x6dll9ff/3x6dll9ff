@@ -1,16 +1,20 @@
+<div style="background-color: #000000; color: #FFFFFF; padding: 20px; border-radius: 10px;">
+<style>
+  h1, h2, h3, h4, h5, h6, p, li, a, strong, em, code, pre, blockquote {
+    color: #FFFFFF !important;
+  }
+  hr {
+    border-color: #FFFFFF !important;
+  }
+</style>
+
 <div align="center">
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=350&height=60&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" style="vertical-align: middle; filter: drop-shadow(0 0 10px #FFFFFF);" />
-        </a>
-        <img src="./ico/profile/wave_white.gif" width="40" alt="waving hand" style="vertical-align: top; margin-top: 5px; filter: drop-shadow(0 0 10px #FFFFFF);">
-      </td>
-    </tr>
-  </table>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=350&height=50&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" height="50" style="vertical-align: middle;" />
+  </a>
+  <img src="./ico/profile/wave_white.gif" height="50" alt="waving hand" style="vertical-align: middle;">
 </div>
 
 <div align="center">
@@ -111,5 +115,7 @@
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=3x6dll9ff&color=blueviolet&style=flat-square)
+
+</div>
 
 </div>
