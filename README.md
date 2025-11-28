@@ -1,10 +1,18 @@
 <div align="center">
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" style="vertical-align: middle;" />
-  </a>
-  <img src="./ico/profile/wave_white.gif" width="40" style="vertical-align: middle;" alt="waving hand">
+  <table style="border: none; background: none;">
+    <tr>
+      <td style="border: none; padding: 0; vertical-align: middle;">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=380&height=50&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" style="vertical-align: middle;" />
+        </a>
+      </td>
+      <td style="border: none; padding: 0; vertical-align: middle;">
+        <img src="./ico/profile/wave_white.gif" width="40" style="vertical-align: middle;" alt="waving hand">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
