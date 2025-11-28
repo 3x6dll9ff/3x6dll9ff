@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" style="vertical-align: middle; filter: drop-shadow(0 0 10px #FFFFFF);" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=435&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" style="vertical-align: middle;" />
   </a>
-  <img src="./ico/profile/wave.gif" width="40" style="vertical-align: middle; filter: brightness(0) invert(1) drop-shadow(0 0 8px #FFFFFF); margin-bottom: 5px; margin-left: -30px;" alt="waving hand">
+  <img src="./ico/profile/wave_white.gif" width="40" style="vertical-align: middle;" alt="waving hand">
 </div>
 
 <div align="center">
