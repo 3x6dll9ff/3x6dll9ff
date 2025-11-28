@@ -5,9 +5,9 @@
     <tr>
       <td align="center">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=350&height=60&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" style="vertical-align: middle;" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=350&height=60&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" style="vertical-align: middle; filter: drop-shadow(0 0 10px #FFFFFF);" />
         </a>
-        <img src="./ico/profile/wave_white.gif" width="40" alt="waving hand" style="vertical-align: middle;">
+        <img src="./ico/profile/wave_white.gif" width="40" alt="waving hand" style="vertical-align: top; margin-top: 5px; filter: drop-shadow(0 0 10px #FFFFFF);">
       </td>
     </tr>
   </table>
@@ -17,6 +17,8 @@
   <a href="https://github.com/3x6dll9ff">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=3x6dll9ff&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget" />
   </a>
+  <br>
+  <img src="https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
@@ -86,7 +88,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3x6dll9ff&theme=github_dark" alt="Profile Details" />
 
