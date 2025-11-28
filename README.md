@@ -1,13 +1,3 @@
-<div style="background-color: #000000; color: #FFFFFF; padding: 20px; border-radius: 10px;">
-<style>
-  h1, h2, h3, h4, h5, h6, p, li, a, strong, em, code, pre, blockquote {
-    color: #FFFFFF !important;
-  }
-  hr {
-    border-color: #FFFFFF !important;
-  }
-</style>
-
 <div align="center">
 
 <div align="center">
