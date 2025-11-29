@@ -3,8 +3,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=350&height=50&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" height="50" style="vertical-align: middle;" />
-  </a>
-  <img src="./ico/profile/wave_white.gif" height="50" alt="waving hand" style="vertical-align: middle;">
+  </a><img src="./ico/profile/wave_white.gif" height="50" alt="waving hand" style="vertical-align: middle;">
 </div>
 
 <div align="center">
@@ -15,21 +14,21 @@
   <img src="https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<p align="center">
+<p align="center" style="padding-top: 20px;">
   <a href="https://www.linkedin.com/in/3x6dll9ff/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="background-color: #0077B5; border-radius: 50%; padding: 8px;"/>
+    <img src="./ico/socials/linkedin.png" alt="LinkedIn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/threex6dll9ff">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="40" height="40" style="background-color: #2CA5E0; border-radius: 50%; padding: 8px;"/>
+    <img src="./ico/socials/telegram.png" alt="Telegram" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/429231370120855552">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" height="40" style="background-color: #5865F2; border-radius: 50%; padding: 8px;"/>
+    <img src="./ico/socials/discord.png" alt="Discord" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://open.spotify.com/user/eaae6oi07uqfmuw5x689hjxzf?si=db6a8eec01734b18">
-    <img src="./ico/socials/spotify.png" alt="Spotify" width="40" height="40" style="border-radius: 50%;"/>
+    <img src="./ico/socials/spotify.png" alt="Spotify" width="50" height="50"/>
   </a>
 </p>
 
