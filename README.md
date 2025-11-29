@@ -46,28 +46,36 @@
 
 <div align="center">
 
-### Languages & Frameworks
-
-<p>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-  <img src="./ico/skills/swift.png" width="50" height="50" alt="Swift" />
-</a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React Native" />
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="./ico/skills/python.png" width="50" height="50" alt="Python" />
-</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="./ico/skills/csharp.png" width="50" height="50" alt="C#" />
-</a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-  <img src="./ico/skills/cpp.png" width="50" height="50" alt="C++" />
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="./ico/skills/figma.png" width="50" height="50" alt="Figma" />
-</a>
-</p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 Primary (AI4Science)</h3>
+      <div align="center">
+        <a href="https://www.python.org/" target="_blank"><img src="./ico/skills/python.png" width="50" height="50" alt="Python" /></a>
+        <a href="https://pytorch.org/" target="_blank"><img src="./ico/skills/pytorch.png" width="50" height="50" alt="PyTorch" /></a>
+        <a href="https://numpy.org/" target="_blank"><img src="./ico/skills/numpy.png" width="50" height="50" alt="NumPy" /></a>
+        <br>
+        <a href="https://isocpp.org/" target="_blank"><img src="./ico/skills/cpp.png" width="50" height="50" alt="C++" /></a>
+        <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="./ico/skills/visual_studio.png" width="50" height="50" alt="Visual Studio" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img src="./ico/skills/docker.png" width="50" height="50" alt="Docker" /></a>
+        <a href="https://www.linux.org/" target="_blank"><img src="./ico/skills/linux.png" width="50" height="50" alt="Linux" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠 Secondary (Dev Background)</h3>
+      <div align="center">
+        <a href="https://developer.apple.com/swift/" target="_blank"><img src="./ico/skills/swift.png" width="50" height="50" alt="Swift" /></a>
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./ico/skills/csharp.png" width="50" height="50" alt="C#" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./ico/skills/javascript.png" width="50" height="50" alt="JavaScript" /></a>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./ico/skills/html.png" width="50" height="50" alt="HTML" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./ico/skills/css.png" width="50" height="50" alt="CSS" /></a>
+        <a href="https://www.figma.com/" target="_blank"><img src="./ico/skills/figma.png" width="50" height="50" alt="Figma" /></a>
+        <a href="https://en.wikipedia.org/wiki/Delphi_(software)" target="_blank"><img src="./ico/skills/delphi.png" width="50" height="50" alt="Delphi" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -76,29 +84,17 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3x6dll9ff&theme=github_dark" alt="Profile Details" />
-
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3x6dll9ff&theme=github_dark" alt="Top Languages by Commit" width="400"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3x6dll9ff&theme=github_dark" alt="Top Languages by Repo" width="400"/>
 </p>
 
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3x6dll9ff&theme=github_dark" alt="Stats" width="400"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3x6dll9ff&theme=github_dark&utcOffset=8" alt="Productive Time" width="400"/>
-</p>
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
 ![Profile Views](https://komarev.com/ghpvc/?username=3x6dll9ff&color=blueviolet&style=flat-square)
 
 </div>
