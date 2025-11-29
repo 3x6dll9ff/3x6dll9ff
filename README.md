@@ -44,34 +44,27 @@
 
 <div align="center">
 
-<table style="border: none; border-collapse: collapse;" width="100%">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">🧬 Primary (AI4Science)</h3>
-      <div align="center">
-        <a href="https://www.python.org/" target="_blank"><img src="./ico/skills/python.png" width="50" height="50" alt="Python" /></a>
-        <a href="https://pytorch.org/" target="_blank"><img src="./ico/skills/pytorch.png" width="50" height="50" alt="PyTorch" /></a>
-        <a href="https://isocpp.org/" target="_blank"><img src="./ico/skills/c_plus.png" width="50" height="50" alt="C++" /></a>
-        <br>
-        <a href="https://www.docker.com/" target="_blank"><img src="./ico/skills/docker.png" width="50" height="50" alt="Docker" /></a>
-        <a href="https://code.visualstudio.com/" target="_blank"><img src="./ico/skills/vs_code.png" width="50" height="50" alt="VS Code" /></a>
-        <a href="https://github.com/" target="_blank"><img src="./ico/skills/github.png" width="50" height="50" alt="GitHub" /></a>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">🛠 Secondary (Dev Background)</h3>
-      <div align="center">
-        <a href="https://developer.apple.com/swift/" target="_blank"><img src="./ico/skills/swift.png" width="50" height="50" alt="Swift" /></a>
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./ico/skills/c_sharp.png" width="50" height="50" alt="C#" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./ico/skills/js.png" width="50" height="50" alt="JavaScript" /></a>
-        <br>
-        <a href="https://golang.org/" target="_blank"><img src="./ico/skills/go.png" width="50" height="50" alt="Go" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img src="./ico/skills/postgresql.png" width="50" height="50" alt="PostgreSQL" /></a>
-        <a href="https://www.postman.com/" target="_blank"><img src="./ico/skills/postman.png" width="50" height="50" alt="Postman" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🧬 Primary (AI4Science)
+
+<a href="https://www.python.org/" target="_blank"><img src="./ico/skills/python.png" width="50" height="50" alt="Python" /></a>
+<a href="https://pytorch.org/" target="_blank"><img src="./ico/skills/pytorch.png" width="50" height="50" alt="PyTorch" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="./ico/skills/c_plus.png" width="50" height="50" alt="C++" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="./ico/skills/docker.png" width="50" height="50" alt="Docker" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="./ico/skills/vs_code.png" width="50" height="50" alt="VS Code" /></a>
+<a href="https://github.com/" target="_blank"><img src="./ico/skills/github.png" width="50" height="50" alt="GitHub" /></a>
+
+### 🛠 Secondary (Dev Background)
+
+<a href="https://developer.apple.com/swift/" target="_blank"><img src="./ico/skills/swift.png" width="50" height="50" alt="Swift" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./ico/skills/c_sharp.png" width="50" height="50" alt="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./ico/skills/js.png" width="50" height="50" alt="JavaScript" /></a>
+<a href="https://golang.org/" target="_blank"><img src="./ico/skills/go.png" width="50" height="50" alt="Go" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="./ico/skills/postgresql.png" width="50" height="50" alt="PostgreSQL" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="./ico/skills/postman.png" width="50" height="50" alt="Postman" /></a>
+
+</div>
 
 </div>
 
