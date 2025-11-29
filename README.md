@@ -47,7 +47,7 @@
 <div align="center">
 
 <div align="center">
-  <h3>🧬 <img src="./ico/profile/primary.png" alt="Primary" height="25" style="vertical-align: middle;" /></h3>
+  <h3>🧬 <img src="./ico/profile/primary.png" alt="Primary" height="25" style="vertical-align: text-bottom;" /></h3>
 </div>
 
 <a href="https://www.python.org/" target="_blank"><img src="./ico/skills/python.png" width="50" height="50" alt="Python" /></a>
@@ -58,7 +58,7 @@
 <a href="https://github.com/" target="_blank"><img src="./ico/skills/github.png" width="50" height="50" alt="GitHub" /></a>
 
 <div align="center">
-  <h3>🛠 <img src="./ico/profile/secondary.png" alt="Secondary" height="25" style="vertical-align: middle;" /></h3>
+  <h3>🛠 <img src="./ico/profile/secondary.png" alt="Secondary" height="25" style="vertical-align: text-bottom;" /></h3>
 </div>
 
 <a href="https://developer.apple.com/swift/" target="_blank"><img src="./ico/skills/swift.png" width="50" height="50" alt="Swift" /></a>
