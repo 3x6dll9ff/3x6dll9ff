@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=350&height=50&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" height="50" style="vertical-align: middle;" />
   </a>
-  <img src="./ico/profile/wave_white.gif" height="40" alt="waving hand" style="vertical-align: middle; margin-top: -5px;">
+  <img src="./ico/profile/wave_white.gif" height="50" alt="waving hand" style="vertical-align: middle;">
 </div>
 
 <div align="center">
