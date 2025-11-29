@@ -30,11 +30,15 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **3+ years of development experience**
-- 🔒 **Passionate about secure software development**
-- 📈 **Focused on delivering value to businesses and end users**
-- 🔗 **Currently studying blockchain development**
-- 🎯 **Building reliable and scalable solutions**
+> **"The best way to predict the future is to invent it."**
+>
+> I am a **Software Engineer** with **4+ years of experience** pivoting into the frontier of **AI4Science & Bioengineering**.
+>
+> My background in **Electrical Engineering & Computer Science (UDG)** gave me a rigorous foundation in complex systems. Now, I am channeling that engineering discipline into exploring how **Artificial Intelligence** can decode biological complexity and accelerate scientific discovery.
+>
+> - 🔭 **Current Focus:** AI4Science, Computational Biology, Deep Learning.
+> - 💡 **Mission:** To build technologies that expand the horizon of scientific possibility.
+> - 🤝 **Connect:** Looking for like-minded visionaries to discuss the future of tech & science.
 
 ---
 
