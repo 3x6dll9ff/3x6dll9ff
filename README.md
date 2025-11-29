@@ -1,18 +1,8 @@
 <div align="center">
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=350&height=50&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" height="50" /></a><img src="./ico/profile/wave_white.gif" height="50" alt="waving hand">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=350&height=50&lines=Hi%2C+I'm+3x6dll9ff!" alt="Typing SVG" height="50" /></a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/3x6dll9ff">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=3x6dll9ff&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget" />
-  </a>
-  <br>
-  <img src="https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/3x6dll9ff/"><img src="./ico/socials/linkedin.png" alt="LinkedIn" width="50" height="50"/></a>
@@ -23,6 +13,17 @@
   &nbsp;&nbsp;
   <a href="https://x.com/3x6dll9ff"><img src="./ico/socials/twitter.png" alt="Twitter" width="50" height="50"/></a>
 </p>
+
+
+<div align="center">
+  <a href="https://github.com/3x6dll9ff">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=3x6dll9ff&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget" />
+  </a>
+  <br>
+  <img src="https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
 
 </div>
 
