@@ -40,8 +40,6 @@
 > - 💡 **Mission:** To build technologies that expand the horizon of scientific possibility.
 > - 🤝 **Connect:** Looking for like-minded visionaries to discuss the future of tech & science.
 
----
-
 <img src="./ico/profile/tech_stack.png" alt="Tech Stack:" height="35" />
 
 <div align="center">
@@ -53,25 +51,23 @@
       <div align="center">
         <a href="https://www.python.org/" target="_blank"><img src="./ico/skills/python.png" width="50" height="50" alt="Python" /></a>
         <a href="https://pytorch.org/" target="_blank"><img src="./ico/skills/pytorch.png" width="50" height="50" alt="PyTorch" /></a>
-        <a href="https://numpy.org/" target="_blank"><img src="./ico/skills/numpy.png" width="50" height="50" alt="NumPy" /></a>
+        <a href="https://isocpp.org/" target="_blank"><img src="./ico/skills/c_plus.png" width="50" height="50" alt="C++" /></a>
         <br>
-        <a href="https://isocpp.org/" target="_blank"><img src="./ico/skills/cpp.png" width="50" height="50" alt="C++" /></a>
-        <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="./ico/skills/visual_studio.png" width="50" height="50" alt="Visual Studio" /></a>
         <a href="https://www.docker.com/" target="_blank"><img src="./ico/skills/docker.png" width="50" height="50" alt="Docker" /></a>
-        <a href="https://www.linux.org/" target="_blank"><img src="./ico/skills/linux.png" width="50" height="50" alt="Linux" /></a>
+        <a href="https://code.visualstudio.com/" target="_blank"><img src="./ico/skills/vs_code.png" width="50" height="50" alt="VS Code" /></a>
+        <a href="https://github.com/" target="_blank"><img src="./ico/skills/github.png" width="50" height="50" alt="GitHub" /></a>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛠 Secondary (Dev Background)</h3>
       <div align="center">
         <a href="https://developer.apple.com/swift/" target="_blank"><img src="./ico/skills/swift.png" width="50" height="50" alt="Swift" /></a>
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./ico/skills/csharp.png" width="50" height="50" alt="C#" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./ico/skills/javascript.png" width="50" height="50" alt="JavaScript" /></a>
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./ico/skills/c_sharp.png" width="50" height="50" alt="C#" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./ico/skills/js.png" width="50" height="50" alt="JavaScript" /></a>
         <br>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./ico/skills/html.png" width="50" height="50" alt="HTML" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./ico/skills/css.png" width="50" height="50" alt="CSS" /></a>
-        <a href="https://www.figma.com/" target="_blank"><img src="./ico/skills/figma.png" width="50" height="50" alt="Figma" /></a>
-        <a href="https://en.wikipedia.org/wiki/Delphi_(software)" target="_blank"><img src="./ico/skills/delphi.png" width="50" height="50" alt="Delphi" /></a>
+        <a href="https://golang.org/" target="_blank"><img src="./ico/skills/go.png" width="50" height="50" alt="Go" /></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img src="./ico/skills/postgresql.png" width="50" height="50" alt="PostgreSQL" /></a>
+        <a href="https://www.postman.com/" target="_blank"><img src="./ico/skills/postman.png" width="50" height="50" alt="Postman" /></a>
       </div>
     </td>
   </tr>
@@ -79,22 +75,24 @@
 
 </div>
 
----
 
-## 📊 GitHub Statistics
+
+<img src="./ico/profile/statistics.png" alt="Statistics:" height="35" />
 
 <div align="center">
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3x6dll9ff&theme=github_dark" alt="Top Languages by Commit" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3x6dll9ff&theme=github_dark" alt="Top Languages by Repo" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3x6dll9ff&theme=transparent" alt="Stats" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3x6dll9ff&theme=transparent" alt="Top Languages by Commit" width="400"/>
 </p>
-
 
 </div>
 
 ---
 
 <div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=3x6dll9ff&color=blueviolet&style=flat-square)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Support%20Me-blueviolet?style=flat-square&logo=githubsponsors)](https://github.com/sponsors/3x6dll9ff)
+![Last Commit](https://img.shields.io/github/last-commit/3x6dll9ff/3x6dll9ff?style=flat-square&color=blueviolet)
 
 </div>
