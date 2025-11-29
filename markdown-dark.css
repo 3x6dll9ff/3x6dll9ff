@@ -1,0 +1,50 @@
+/* Force dark background for VS Code Markdown Preview */
+html,
+html body,
+body,
+body.vscode-dark,
+body.vscode-light,
+body[class*="vscode"],
+.vscode-body,
+.vscode-body.vscode-dark,
+.vscode-body.vscode-light,
+#preview,
+.markdown-preview,
+div[class*="markdown"],
+div[class*="preview"] {
+  background-color: #0d1117 !important;
+  background: #0d1117 !important;
+  color: #c9d1d9 !important;
+}
+
+/* Force all text elements */
+h1, h2, h3, h4, h5, h6,
+p, li, ul, ol, blockquote,
+div, span, a, strong, em {
+  color: #c9d1d9 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #58a6ff !important;
+}
+
+a {
+  color: #58a6ff !important;
+}
+
+code {
+  background-color: #161b22 !important;
+  color: #c9d1d9 !important;
+}
+
+pre {
+  background-color: #161b22 !important;
+}
+
+hr {
+  border-color: #30363d !important;
+}
+
+strong {
+  color: #f0883e !important;
+}

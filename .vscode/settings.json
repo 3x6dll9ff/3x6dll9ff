@@ -1,0 +1,12 @@
+{
+  "markdown.preview.breaks": true,
+  "markdown.preview.fontSize": 14,
+  "markdown.preview.markdownItOptions": {
+    "html": true
+  },
+  "markdown.styles": [
+    "markdown-dark.css"
+  ],
+  "markdown-preview-github-styles.colorTheme": "dark"
+}
+
