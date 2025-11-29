@@ -15,21 +15,10 @@
 </div>
 
 <p align="center" style="padding-top: 20px;">
-  <a href="https://www.linkedin.com/in/3x6dll9ff/">
-    <img src="./ico/socials/linkedin.png" alt="LinkedIn" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/threex6dll9ff">
-    <img src="./ico/socials/telegram.png" alt="Telegram" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/429231370120855552">
-    <img src="./ico/socials/discord.png" alt="Discord" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/eaae6oi07uqfmuw5x689hjxzf?si=db6a8eec01734b18">
-    <img src="./ico/socials/spotify.png" alt="Spotify" width="50" height="50"/>
-  </a>
+  <a href="https://www.linkedin.com/in/3x6dll9ff/"><img src="./ico/socials/linkedin.png" alt="LinkedIn" width="50" height="50"/></a>
+  <a href="https://t.me/threex6dll9ff"><img src="./ico/socials/telegram.png" alt="Telegram" width="50" height="50"/></a>
+  <a href="https://discord.com/users/429231370120855552"><img src="./ico/socials/discord.png" alt="Discord" width="50" height="50"/></a>
+  <a href="https://open.spotify.com/user/eaae6oi07uqfmuw5x689hjxzf?si=db6a8eec01734b18"><img src="./ico/socials/spotify.png" alt="Spotify" width="50" height="50"/></a>
 </p>
 
 </div>
