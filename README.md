@@ -46,7 +46,7 @@
 
 <div align="center">
 
-### 🧬 Primary (AI4Science)
+### 🧬 Primary
 
 <a href="https://www.python.org/" target="_blank"><img src="./ico/skills/python.png" width="50" height="50" alt="Python" /></a>
 <a href="https://pytorch.org/" target="_blank"><img src="./ico/skills/pytorch.png" width="50" height="50" alt="PyTorch" /></a>
@@ -55,7 +55,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="./ico/skills/vs_code.png" width="50" height="50" alt="VS Code" /></a>
 <a href="https://github.com/" target="_blank"><img src="./ico/skills/github.png" width="50" height="50" alt="GitHub" /></a>
 
-### 🛠 Secondary (Dev Background)
+### 🛠 Secondary
 
 <a href="https://developer.apple.com/swift/" target="_blank"><img src="./ico/skills/swift.png" width="50" height="50" alt="Swift" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="./ico/skills/c_sharp.png" width="50" height="50" alt="C#" /></a>
