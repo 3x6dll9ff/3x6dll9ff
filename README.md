@@ -21,7 +21,7 @@
   &nbsp;&nbsp;
   <a href="https://discord.com/users/429231370120855552"><img src="./ico/socials/discord.png" alt="Discord" width="50" height="50"/></a>
   &nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/eaae6oi07uqfmuw5x689hjxzf?si=db6a8eec01734b18"><img src="./ico/socials/spotify.png" alt="Spotify" width="50" height="50"/></a>
+  <a href="https://x.com/3x6dll9ff"><img src="./ico/socials/twitter.png" alt="Twitter" width="50" height="50"/></a>
 </p>
 
 </div>
@@ -32,7 +32,7 @@
 
 > **"The best way to predict the future is to invent it."**
 >
-> I am a **Software Engineer** with **4+ years of experience** pivoting into the frontier of **AI4Science & Bioengineering**.
+> I am a **Software Engineer** with **4+ years of experience** pivoting into the frontier of **AI4Science & Computational Bioengineering**.
 >
 > Leveraging my background in **Electrical Engineering & CS**, I am channeling engineering discipline into exploring how **Artificial Intelligence** can decode biological complexity and accelerate scientific discovery.
 >
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<img src="./ico/profile/tech_stack.png" alt="Tech Stack:" height="35" />
 
 <div align="center">
 
