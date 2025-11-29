@@ -44,9 +44,9 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<table style="border: none; border-collapse: collapse;" width="100%">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
       <h3 align="center">🧬 Primary (AI4Science)</h3>
       <div align="center">
         <a href="https://www.python.org/" target="_blank"><img src="./ico/skills/python.png" width="50" height="50" alt="Python" /></a>
@@ -58,7 +58,7 @@
         <a href="https://github.com/" target="_blank"><img src="./ico/skills/github.png" width="50" height="50" alt="GitHub" /></a>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none;">
       <h3 align="center">🛠 Secondary (Dev Background)</h3>
       <div align="center">
         <a href="https://developer.apple.com/swift/" target="_blank"><img src="./ico/skills/swift.png" width="50" height="50" alt="Swift" /></a>
