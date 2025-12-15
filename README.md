@@ -33,13 +33,13 @@
 
 > **"The best way to predict the future is to invent it."**
 >
-> I am a **Software Engineer** with **4+ years of experience** pivoting into the frontier of **AI4Science & Computational Bioengineering**.
+> I am a **Software Engineer** with **4+ years of experience** specializing in **Machine Learning Engineering**.
 >
-> Leveraging my background in **Electrical Engineering & CS**, I am channeling engineering discipline into exploring how **Artificial Intelligence** can decode biological complexity and accelerate scientific discovery.
+> Leveraging my background in **Electrical Engineering & CS**, I apply production-grade engineering practices to **Machine Learning** to build robust and scalable AI systems.
 >
-> - 🔭 **Current Focus:** AI4Science, Computational Biology, Deep Learning.
-> - 💡 **Mission:** To build technologies that expand the horizon of scientific possibility.
-> - 🤝 **Connect:** Looking for like-minded visionaries to discuss the future of tech & science.
+> - 🔭 **Current Focus:** Machine Learning Engineering, Deep Learning, MLOps.
+> - 💡 **Mission:** To build intelligent technologies that make a tangible impact.
+> - 🤝 **Connect:** Always open to discussing interesting AI/ML challenges and opportunities.
 
 <img src="./ico/profile/tech_stack.png" alt="Tech Stack:" height="35" />
 
