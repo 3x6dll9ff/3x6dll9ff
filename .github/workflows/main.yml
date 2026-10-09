@@ -1,42 +1,53 @@
-name: generate animation
+name: generate widgets
 
 on:
-  # run automatically every 24 hours
+  # daily refresh, off the top of the hour when scheduled runs queue up
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "17 3 * * *"
   workflow_dispatch:
-  
-  # run on every push on the master branch
   push:
     branches:
-    - main
-    
-  
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # assets/*.svg are committed; fail if they are stale against the script
+      - name: check static widgets are up to date
+        run: |
+          node scripts/generate.mjs static > /dev/null
+          git diff --exit-code --stat -- assets || { echo "::error::assets/ is stale, run: node scripts/generate.mjs static"; exit 1; }
+
+      # metrics-{dark,light}.svg: contributions, streaks, weekly activity, languages
+      # Add a METRICS_TOKEN secret (classic PAT, read:user) to count private contributions too.
+      - name: generate metrics
+        run: node scripts/generate.mjs metrics dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-contribution-grid-snake.svg?color_snake=#8250df&color_dots=#ebedf0,#e2d1ff,#c297ff,#a371f7,#8250df
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a371f7&color_dots=#161b22,#2b1f4a,#4c2f8a,#7c4fd4,#a371f7
+
+      # served at https://raw.githubusercontent.com/<user>/<repo>/output/<file>
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
